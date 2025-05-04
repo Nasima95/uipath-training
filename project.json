@@ -4,7 +4,9 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[25.2.1]"
+    "UiPath.Excel.Activities": "[3.0.1]",
+    "UiPath.System.Activities": "[25.2.1]",
+    "UiPathTeam.SplitWorkbookByValuesAndQueueEach.Activities": "[1.0.3]"
   },
   "webServices": [],
   "entitiesStores": [],
