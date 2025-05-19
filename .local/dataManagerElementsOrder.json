@@ -1,0 +1,182 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ExcelAutomation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "index&Sequence_1",
+        "dtExcel&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EmailAutomationExcercise.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "PasswordEmail&Sequence_2",
+        "NewMails&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EmailAutomation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "filePath&Sequence_9",
+        "Attachment&Sequence_8",
+        "traineesMailIds&Sequence_2",
+        "datatable&Sequence_2",
+        "datatable1&Sequence_2",
+        "smtpServer&Sequence_2",
+        "smtpPort&Sequence_2",
+        "password&Sequence_2",
+        "email&Sequence_2",
+        "emailList&Sequence_2",
+        "index&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "UIAutomation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "datatable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CreateNickName.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FirstName&Sequence_1",
+        "LastName&Sequence_1",
+        "NickName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EmailAutomationTest.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Dt_ExcelData&Sequence_12",
+        "SenderEmail&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "FindTheSmallestNumberInArray.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "NumArray&Sequence_2",
+        "SmallestNumber&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "FindTheLargestNumbarInArray.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "NumArray&Sequence_1",
+        "LargestNumber&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "UIAutomationTask2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "DataText6&Sequence_3",
+        "variable1&Sequence_3",
+        "DataText5&Sequence_3",
+        "DataText4&Sequence_3",
+        "DataText3&Sequence_3",
+        "Movie&Sequence_3",
+        "DataText1&Sequence_3",
+        "DataText2&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "filePath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ExceptionHandling.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Value&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "workbook.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "datatable1&Sequence_1",
+        "datatable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EmailAutomationGmail.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "[Nothing]&Sequence_12",
+        "CurrentMail&Sequence_1",
+        "RPAExcel&Sequence_9",
+        "datatable1&Sequence_1",
+        "datatable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "MovieList.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FirstMovie&Sequence_3",
+        "FirstMovieInfo&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="A6jVQzlVlk2kvrRoEAGZXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com/movieSearch" CVScreenId="e214d68b-1875-454d-8546-ee3b0fa7f149" CvElementArea="928, 893, 34, 35" CvType="Icon" DesignTimeRectangle="930, 896, 30, 30" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;app-root&amp;gt;div&amp;gt;app-rpa3&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;i' tag='I' /&gt;" Guid="481a458d-1179-46d8-a90d-13eb725b76bb" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAADHSURBVFhHY/g/SAADusBAgVGHoINRh6CDUYegAwoc8vH/sWaf/xqKiv8VNXz+tx77iK6AJEC2Q14tj/qvCHIEHEf9X/kcXRXxgGyH7C9CdgQE5+9BV0U8INshgyZEBk0aoTYYJg55d+X/jpk9/2dvvfL/4x90SdIA+Q55MPu/D3Ji9Zv9/xG6GhIA2Q4526CBlms0/tedRldFPBj6Dhk0UQMGgyKxUhkMB4cMkiJ+0FR6o80ATDBI0gi1wahD0MGoQ9DBoHEIAI/kZ2wV+mjXAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="1a57dbe2202c5ffe71a3ebde8e78e92d.png" xmlns="">0vKnzNM8FUUOAWZPucyvlOw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

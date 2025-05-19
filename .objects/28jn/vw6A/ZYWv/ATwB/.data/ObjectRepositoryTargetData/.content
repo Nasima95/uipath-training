@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ungVAiR7SEGWgxx0QhuqDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com/movieSearch" CVScreenId="6e35f619-97db-42bb-96f4-58dc355bb978" CvType="AnyWordGroup" DesignTimeRectangle="644, 846, 316, 40" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='SPAN' type='' class='card-title activator' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="db53bee8-7197-4adb-bbdb-74593e82d8d9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="614, 252, 376, 564" ElementType="Icon" FullSelectorArgument="&lt;webctrl tag='IMG' /&gt;" Guid="10e68454-1067-4f04-89e5-0eb16844c77c" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ef2f159fc3e868ae021b2eb0fc694758.png" xmlns="">0x183hLPJS0-PrxtWZLFF6Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VLf91ABNOESd-QCxU4F58Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com/movieSearch" CVScreenId="c1aa1b32-a8cd-42b2-90dc-15d249331205" CvTextArea="1366, 147, 126, 17" CvTextArgument="Movie Search" CvType="Text" DesignTimeRectangle="1349, 117, 163, 80" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Movie Search' parentid='nav-mobile' tag='A' /&gt;" Guid="7dd2dffa-1f3b-4812-9a64-d1ccb0657e5b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c1aa1b32-a8cd-42b2-90dc-15d249331205" CvTextArea="1366, 147, 126, 17" CvTextArgument="Movie Search" CvType="Text" DesignTimeRectangle="1365, 147, 128, 18" ElementType="Text" Guid="6682d704-87b8-41cb-8b93-053913ded96c" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="695978920a3ac33fc6a2b40e3fc42db9.png" xmlns="">0PEafioB1SkqBtbZO-c_2uQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

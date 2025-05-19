@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="e-Auk30ic0SMZ6Ao6Raiww" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com/movieSearch" CVScreenId="fb97dc76-54aa-4900-9748-38a0da96e603" CvElementArea="151, 65, 1491, 44" CvType="InputBox" DesignTimeRectangle="205, 72, 1387, 31" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='Rpa Challenge - Google Chrome' role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' /&gt;" Guid="d4ceb0c2-a541-4598-98e5-eafdb1178a57" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Rpa Challenge - Google Chrome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="b67b9e32f085ccdc0b957b10ecd211ae.png" xmlns="">0iTYbrBlI50WpjG7umkB8Ew</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
