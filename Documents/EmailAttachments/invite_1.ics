@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:GMT+5:30
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20250501T115500
+DTEND;TZID=Asia/Kolkata:20250501T124000
+DTSTAMP:20250501T062022Z
+ORGANIZER;CN=Isfum Tech Solutions PVT. LTD.:mailto:isfumtech@gmail.com
+UID:6krj0d316cr3cb9l68rmab9k69h36bb2cpgm6b9i61hm8ob5c5j32or560@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=harikarthik1199@gmail.com;X-NUM-GUESTS=0:mailto:harikarthik1199@gma
+ il.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=nasimabanu1995@gmail.com;X-NUM-GUESTS=0:mailto:nasimabanu1995@gmail
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Isfum Tech Solutions PVT. LTD.;X-NUM-GUESTS=0:mailto:isfumtech@gmail.co
+ m
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=dillusanaa@gmail.com;X-NUM-GUESTS=0:mailto:dillusanaa@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=sakiraparveen@gmail.com;X-NUM-GUESTS=0:mailto:sakiraparveen@gmail.c
+ om
+X-GOOGLE-CONFERENCE:https://meet.google.com/baa-qtxh-ekt
+X-MICROSOFT-CDO-OWNERAPPTID:-996865055
+RECURRENCE-ID;TZID=Asia/Kolkata:20250501T093000
+CREATED:20250425T025646Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nJoin with Google Meet: https://meet.google.com/ba
+ a-qtxh-ekt\n\nLearn more about Meet at: https://support.google.com/a/users/
+ answer/9282720\n\nPlease do not edit this section.\n-::~:~::~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20250501T062021Z
+LOCATION:
+SEQUENCE:3
+STATUS:CONFIRMED
+SUMMARY:RPA Training
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
