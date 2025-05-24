@@ -42,8 +42,6 @@
       "Path": "EmailAutomation.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "filePath&Sequence_9",
-        "Attachment&Sequence_8",
         "traineesMailIds&Sequence_2",
         "datatable&Sequence_2",
         "datatable1&Sequence_2",
@@ -154,20 +152,6 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "EmailAutomationGmail.xaml",
-      "SortBy": 0,
-      "VariablesSectionElementsOrder": [
-        "[Nothing]&Sequence_12",
-        "CurrentMail&Sequence_1",
-        "RPAExcel&Sequence_9",
-        "datatable1&Sequence_1",
-        "datatable&Sequence_1"
-      ],
-      "ArgumentsSectionElementsOrder": [],
-      "ConstantsSectionElementsOrder": [],
-      "AddedNamespaces": null
-    },
-    {
       "Path": "MovieList.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
@@ -176,6 +160,22 @@
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EmailAutomationGmail.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "UIAutomation_formFilling.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
       "AddedNamespaces": null
     }
   ]
