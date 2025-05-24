@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c+6CirL2YC8=",
+  "dgSpecHash": "R7CP/irtEV4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\eyefo\\OneDrive\\Documents\\UiPath\\uipath-training\\.local\\",
+  "projectFilePath": "C:\\Documents\\UiPath\\uipath-training\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\eyefo\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
     "C:\\Users\\eyefo\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
@@ -290,10 +290,10 @@
     "C:\\Users\\eyefo\\.nuget\\packages\\uipath.system.activities.runtime\\25.4.2\\uipath.system.activities.runtime.25.4.2.nupkg.sha512",
     "C:\\Users\\eyefo\\.nuget\\packages\\uipath.system.activities.runtime.windows\\25.4.2\\uipath.system.activities.runtime.windows.25.4.2.nupkg.sha512",
     "C:\\Users\\eyefo\\.nuget\\packages\\uipath.telemetry.client\\2.5.17\\uipath.telemetry.client.2.5.17.nupkg.sha512",
-    "C:\\Users\\eyefo\\.nuget\\packages\\uipath.uiautomation.activities\\25.10.2\\uipath.uiautomation.activities.25.10.2.nupkg.sha512",
-    "C:\\Users\\eyefo\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.10.2\\uipath.uiautomation.activities.runtime.25.10.2.nupkg.sha512",
-    "C:\\Users\\eyefo\\.nuget\\packages\\uipath.uiautomation.activities.runtime.design\\25.10.2\\uipath.uiautomation.activities.runtime.design.25.10.2.nupkg.sha512",
-    "C:\\Users\\eyefo\\.nuget\\packages\\uipath.uiautomation.design.recoverypanel\\25.10.2\\uipath.uiautomation.design.recoverypanel.25.10.2.nupkg.sha512",
+    "C:\\Users\\eyefo\\.nuget\\packages\\uipath.uiautomation.activities\\25.10.4\\uipath.uiautomation.activities.25.10.4.nupkg.sha512",
+    "C:\\Users\\eyefo\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.10.4\\uipath.uiautomation.activities.runtime.25.10.4.nupkg.sha512",
+    "C:\\Users\\eyefo\\.nuget\\packages\\uipath.uiautomation.activities.runtime.design\\25.10.4\\uipath.uiautomation.activities.runtime.design.25.10.4.nupkg.sha512",
+    "C:\\Users\\eyefo\\.nuget\\packages\\uipath.uiautomation.design.recoverypanel\\25.10.4\\uipath.uiautomation.design.recoverypanel.25.10.4.nupkg.sha512",
     "C:\\Users\\eyefo\\.nuget\\packages\\uipath.vision\\3.15.0\\uipath.vision.3.15.0.nupkg.sha512",
     "C:\\Users\\eyefo\\.nuget\\packages\\uipathteam.splitworkbookbyvaluesandqueueeach.activities\\1.0.3\\uipathteam.splitworkbookbyvaluesandqueueeach.activities.1.0.3.nupkg.sha512",
     "C:\\Users\\eyefo\\.nuget\\packages\\xlparser\\1.5.2\\xlparser.1.5.2.nupkg.sha512"
