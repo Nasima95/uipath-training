@@ -5,14 +5,17 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[3.0.1]",
-    "UiPath.System.Activities": "[25.2.1]",
+    "UiPath.GSuite.Activities": "[3.1.10-preview]",
+    "UiPath.Mail.Activities": "[2.0.11]",
+    "UiPath.System.Activities": "[25.4.2]",
+    "UiPath.UIAutomation.Activities": "[25.10.4]",
     "UiPathTeam.SplitWorkbookByValuesAndQueueEach.Activities": "[1.0.3]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "25.0.161.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
