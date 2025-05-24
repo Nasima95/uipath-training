@@ -5446,11 +5446,11 @@
           "lib/netstandard2.0/TelemetryClient.dll": {}
         }
       },
-      "UiPath.UIAutomation.Activities/25.10.2": {
+      "UiPath.UIAutomation.Activities/25.10.4": {
         "type": "package",
         "dependencies": {
-          "UiPath.UIAutomation.Activities.Runtime": "[25.10.2]",
-          "UiPath.UIAutomation.Design.RecoveryPanel": "[25.10.2]"
+          "UiPath.UIAutomation.Activities.Runtime": "[25.10.4]",
+          "UiPath.UIAutomation.Design.RecoveryPanel": "[25.10.4]"
         },
         "compile": {
           "lib/net6.0-windows7.0/_._": {}
@@ -5615,7 +5615,7 @@
           }
         }
       },
-      "UiPath.UIAutomation.Activities.Runtime/25.10.2": {
+      "UiPath.UIAutomation.Activities.Runtime/25.10.4": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
@@ -5629,7 +5629,7 @@
           "UiPath.OCR.Contracts": "2.17.1",
           "UiPath.Platform": "25.4.0",
           "UiPath.Telemetry.Client": "2.5.17",
-          "UiPath.UIAutomation.Activities.Runtime.Design": "[25.10.2]",
+          "UiPath.UIAutomation.Activities.Runtime.Design": "[25.10.4]",
           "UiPath.Vision": "3.15.0"
         },
         "compile": {
@@ -5811,7 +5811,7 @@
           }
         }
       },
-      "UiPath.UIAutomation.Activities.Runtime.Design/25.10.2": {
+      "UiPath.UIAutomation.Activities.Runtime.Design/25.10.4": {
         "type": "package",
         "compile": {
           "lib/net6.0-windows7.0/_._": {}
@@ -5820,7 +5820,7 @@
           "lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Runtime.Design.dll": {}
         }
       },
-      "UiPath.UIAutomation.Design.RecoveryPanel/25.10.2": {
+      "UiPath.UIAutomation.Design.RecoveryPanel/25.10.4": {
         "type": "package",
         "compile": {
           "lib/net6.0/_._": {}
@@ -11195,11 +11195,11 @@
           "lib/netstandard2.0/TelemetryClient.dll": {}
         }
       },
-      "UiPath.UIAutomation.Activities/25.10.2": {
+      "UiPath.UIAutomation.Activities/25.10.4": {
         "type": "package",
         "dependencies": {
-          "UiPath.UIAutomation.Activities.Runtime": "[25.10.2]",
-          "UiPath.UIAutomation.Design.RecoveryPanel": "[25.10.2]"
+          "UiPath.UIAutomation.Activities.Runtime": "[25.10.4]",
+          "UiPath.UIAutomation.Design.RecoveryPanel": "[25.10.4]"
         },
         "compile": {
           "lib/net6.0-windows7.0/_._": {}
@@ -11364,7 +11364,7 @@
           }
         }
       },
-      "UiPath.UIAutomation.Activities.Runtime/25.10.2": {
+      "UiPath.UIAutomation.Activities.Runtime/25.10.4": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
@@ -11378,7 +11378,7 @@
           "UiPath.OCR.Contracts": "2.17.1",
           "UiPath.Platform": "25.4.0",
           "UiPath.Telemetry.Client": "2.5.17",
-          "UiPath.UIAutomation.Activities.Runtime.Design": "[25.10.2]",
+          "UiPath.UIAutomation.Activities.Runtime.Design": "[25.10.4]",
           "UiPath.Vision": "3.15.0"
         },
         "compile": {
@@ -11560,7 +11560,7 @@
           }
         }
       },
-      "UiPath.UIAutomation.Activities.Runtime.Design/25.10.2": {
+      "UiPath.UIAutomation.Activities.Runtime.Design/25.10.4": {
         "type": "package",
         "compile": {
           "lib/net6.0-windows7.0/_._": {}
@@ -11569,7 +11569,7 @@
           "lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Runtime.Design.dll": {}
         }
       },
-      "UiPath.UIAutomation.Design.RecoveryPanel/25.10.2": {
+      "UiPath.UIAutomation.Design.RecoveryPanel/25.10.4": {
         "type": "package",
         "compile": {
           "lib/net6.0/_._": {}
@@ -21788,10 +21788,10 @@
         "uipath.telemetry.client.nuspec"
       ]
     },
-    "UiPath.UIAutomation.Activities/25.10.2": {
-      "sha512": "SO3lfm55D7mLO4c33OKsumZLXlAAsB4vrT3eZlV3qIbJPejA4Axv3DDQe7bmCVs4M+takoJo5L8MCQhAGnsG6w==",
+    "UiPath.UIAutomation.Activities/25.10.4": {
+      "sha512": "30bu3InUO95tQicdzA17hOjpDcaS8ZPHsIr70sZu3ZKVMFe9FtSt2WIh67oqYyYCbFpFC5FTULhyUrxkhyaCZQ==",
       "type": "package",
-      "path": "uipath.uiautomation.activities/25.10.2",
+      "path": "uipath.uiautomation.activities/25.10.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -21918,14 +21918,14 @@
         "lib/net6.0/ru/UiPath.UIAutomationNext.Activities.Design.resources.dll",
         "lib/net6.0/tr/UiPath.UIAutomationNext.Activities.Design.resources.dll",
         "lib/net6.0/zh-CN/UiPath.UIAutomationNext.Activities.Design.resources.dll",
-        "uipath.uiautomation.activities.25.10.2.nupkg.sha512",
+        "uipath.uiautomation.activities.25.10.4.nupkg.sha512",
         "uipath.uiautomation.activities.nuspec"
       ]
     },
-    "UiPath.UIAutomation.Activities.Runtime/25.10.2": {
-      "sha512": "Nn/i9iQp7ezyCZoXwgkbObN/b171CmB7wYKIxTwg4ouwYVhifoa0wXYvthNfyDMANFJgvNvXfqUd5MGt2Bgk3w==",
+    "UiPath.UIAutomation.Activities.Runtime/25.10.4": {
+      "sha512": "llU8aCDQ/X8I5I7SGzUwGCBtixQVW/AZPTN+V6TEmPpj2Ryye79kNtKZ5rj7JAZ6P3JI0koCe0A+OV4JL9+npA==",
       "type": "package",
-      "path": "uipath.uiautomation.activities.runtime/25.10.2",
+      "path": "uipath.uiautomation.activities.runtime/25.10.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -22052,14 +22052,14 @@
         "lib/net6.0-windows7.0/zu/UiPath.CV.resources.dll",
         "lib/net6.0-windows7.0/zu/UiPath.UIAutomationNext.resources.dll",
         "lib/net6.0-windows7.0/zu/UiPath.UiAutomation.Activities.resources.dll",
-        "uipath.uiautomation.activities.runtime.25.10.2.nupkg.sha512",
+        "uipath.uiautomation.activities.runtime.25.10.4.nupkg.sha512",
         "uipath.uiautomation.activities.runtime.nuspec"
       ]
     },
-    "UiPath.UIAutomation.Activities.Runtime.Design/25.10.2": {
-      "sha512": "Vg8DwCcYn9Cn9SVj9fujxcFmzPwQDQMkU1hH2HVVqz/xA0zQgaEeRJf5uY0HO8axTHjCQZhn1XczUJGA76X8Sg==",
+    "UiPath.UIAutomation.Activities.Runtime.Design/25.10.4": {
+      "sha512": "rejNciOgz4yMZxzo2XtMF7L65NnMRx/vlYgLFfQlerGZuA1tmyeEC36zxaUNBjpO/TbCEOJ0t/AfIpLf5lubYA==",
       "type": "package",
-      "path": "uipath.uiautomation.activities.runtime.design/25.10.2",
+      "path": "uipath.uiautomation.activities.runtime.design/25.10.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -22263,14 +22263,14 @@
         "lib/net461/UiPath.UIAutomation.Activities.Runtime.Design.dll",
         "lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Runtime.Design.dll",
         "lib/net6.0/UiPath.UIAutomation.Activities.Runtime.Design.dll",
-        "uipath.uiautomation.activities.runtime.design.25.10.2.nupkg.sha512",
+        "uipath.uiautomation.activities.runtime.design.25.10.4.nupkg.sha512",
         "uipath.uiautomation.activities.runtime.design.nuspec"
       ]
     },
-    "UiPath.UIAutomation.Design.RecoveryPanel/25.10.2": {
-      "sha512": "1GcotMiHjEac/rIT0H21zI/uCqbrdHkTIjAMSKnkvefyJPWvtTq51AFTHEGQCSmUly5drxmjSJ131hS3lKs8+Q==",
+    "UiPath.UIAutomation.Design.RecoveryPanel/25.10.4": {
+      "sha512": "UL93hGCwcsUivXLmWzMLygpXWjeHLdcjLZxO/GbUALF/+YsJID2v5oFCwTBVMec2CjnUMDlyj40bem9G7rk9kg==",
       "type": "package",
-      "path": "uipath.uiautomation.design.recoverypanel/25.10.2",
+      "path": "uipath.uiautomation.design.recoverypanel/25.10.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -22396,7 +22396,7 @@
         "content/runtime.js",
         "content/styles.css",
         "lib/net6.0/UiPath.UIAutomation.Design.RecoveryPanel.dll",
-        "uipath.uiautomation.design.recoverypanel.25.10.2.nupkg.sha512",
+        "uipath.uiautomation.design.recoverypanel.25.10.4.nupkg.sha512",
         "uipath.uiautomation.design.recoverypanel.nuspec"
       ]
     },
@@ -22698,7 +22698,7 @@
       "UiPath.GSuite.Activities >= 3.1.10-preview <= 3.1.10-preview",
       "UiPath.Mail.Activities >= 2.0.11 <= 2.0.11",
       "UiPath.System.Activities >= 25.4.2 <= 25.4.2",
-      "UiPath.UIAutomation.Activities >= 25.10.2 <= 25.10.2",
+      "UiPath.UIAutomation.Activities >= 25.10.4 <= 25.10.4",
       "UiPathTeam.SplitWorkbookByValuesAndQueueEach.Activities >= 1.0.3 <= 1.0.3"
     ]
   },
@@ -22709,9 +22709,9 @@
     "restore": {
       "projectUniqueName": "uipath-training",
       "projectName": "uipath-training",
-      "projectPath": "C:\\Users\\eyefo\\OneDrive\\Documents\\UiPath\\uipath-training\\.local",
+      "projectPath": "C:\\Documents\\UiPath\\uipath-training\\.local",
       "packagesPath": "C:\\Users\\eyefo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eyefo\\OneDrive\\Documents\\UiPath\\uipath-training\\.local",
+      "outputPath": "C:\\Documents\\UiPath\\uipath-training\\.local",
       "UsingMicrosoftNETSdk": false,
       "restoreAuditProperties": {
         "enableAudit": "False"
@@ -22743,7 +22743,7 @@
           "UiPath.UIAutomation.Activities": {
             "include": "Runtime",
             "target": "Package",
-            "version": "[25.10.2, 25.10.2]"
+            "version": "[25.10.4, 25.10.4]"
           },
           "UiPathTeam.SplitWorkbookByValuesAndQueueEach.Activities": {
             "include": "Runtime",
